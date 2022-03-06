@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/sparkstreaming_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$streamWordCount$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$streamWordCount$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/KafkaStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CassandraSinkForeach.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/CassandraSinkForeach.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CassandraSinkForeach$$anonfun$process$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/CassandraSinkForeach$$anonfun$process$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/KafkaStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$streamHdfsFile$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$streamHdfsFile$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaStream$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/KafkaStream$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirstStream$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/stephen/IdeaProjects/SparkStreaming/target/scala-2.11/classes/FirstStream$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
